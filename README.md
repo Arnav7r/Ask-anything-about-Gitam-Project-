@@ -1,4 +1,4 @@
-# Ask-anything-about-Gitam-Project-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/08329317-0a6a-4aa4-849f-03d4b2ee1fcb" /># Ask-anything-about-Gitam-Project-
 Ask Anything About GITAM
 An AI-Powered University Information Chatbot
 Ask Anything About GITAM is an intelligent AI-powered chatbot designed to answer any question related to GITAM Deemed University. The system provides instant, accurate, and verified information about courses, fee structures, admissions, academics, grading policies, and campus life.
@@ -7,3 +7,6 @@ In modern educational institutions, students and parents often struggle to find 
 The chatbot uses Artificial Intelligence and automation workflows to understand user queries, retrieve real-time data from official GITAM sources, and present it in a user-friendly conversational format.
 
 
+
+Here is the link for the video:
+https://drive.google.com/drive/folders/1EAcjXXxWkeU3jhM-p2FRIqYn2KOEGG2W?usp=sharing
